@@ -6,7 +6,7 @@
 
 * [Crew Formation](patterns/crew-formation-patterns.md)
 * [Conscious Organizational Map](patterns/conscious-organizational-map.md)
-* [Co-Living Patters](patterns/coliving/README.md)
+* [Co-Living Patterns](patterns/coliving/README.md)
   * [Did this](patterns/coliving/did-this.md)
   * [Offers and Requests](patterns/coliving/offers-and-requests.md)
   * [Task Buddy](patterns/coliving/task-buddy.md)

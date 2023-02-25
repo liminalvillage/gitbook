@@ -1,10 +1,10 @@
 ---
-description: The knifes are in the kitchen
+description: '"The knifes are in the kitchen"'
 ---
 
-# Co-Living Patters
+# Co-Living Patterns
 
-Working together might means eating together and spending a lot of time with each other. These could be considered as temporary communities, and although it works well when everyone is excited of being part of such, it is easy to fall out of grace.
+Working together might mean eating together and spending a lot of time with each other. These could be considered as temporary communities, and although it works well when everyone is excited of being part of such, it is easy to fall out of grace.
 
 Washing the dishes, cooking, sharing the food, cleaning the toilets, norms of behaviours that should be widely recognised are often the beginning of the end of a group of people, and the projects might be heavily affected by this physical situation. &#x20;
 
