@@ -10,7 +10,7 @@
   * [Did this](patterns/coliving/did-this.md)
   * [Offers and Requests](patterns/coliving/offers-and-requests.md)
   * [Task Buddy](patterns/coliving/task-buddy.md)
-  * [Ruler of the Kitchen](patterns/coliving/ruler-of-the-kitchen.md)
+  * ["Account-a-Billy"](patterns/coliving/ruler-of-the-kitchen.md)
   * [Appreciative Scoring](patterns/coliving/appreciative-scoring.md)
 * [Co-Creation Patterns](patterns/cocreation/README.md)
   * [Psychological Safety](patterns/cocreation/psychological-safety.md)

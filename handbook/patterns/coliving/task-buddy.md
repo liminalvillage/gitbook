@@ -7,20 +7,18 @@ description: >-
 
 # Task Buddy
 
-The idea is inspired from [_pair programming_](https://en.m.wikipedia.org/wiki/Pair\_programming), where two people work together on a programming assignment. Although this results in higher costs in man-hours, the advantages of pair programming are significant, yielding higher focus, quality, relevance, morale, efficiency and establishing a much more enjoyable collaborative environment.
+Collaboration has long been known as a powerful tool for achieving success. Whether you're working on a complex project or simply trying to complete a task, working with others can provide valuable insights, ideas, and support. However, finding the right partner can be challenging. That's where the Buddy System comes in.
 
-For any task, a person finds a _Buddy_, that is, someone to do it with.
+The idea behind the Buddy System is inspired by pair programming, where two people work together on a programming assignment. Although this results in higher costs in man-hours, the advantages of pair programming are significant, yielding higher focus, quality, relevance, morale, efficiency and establishing a much more enjoyable collaborative environment.
 
-During the time they work together, the buddies will discuss how to tackle the task, and entertain any conversations that they deem relevant.
+The Buddy System is a way to apply this concept to any task. The basic idea is that each person finds a Buddy, someone to work with on the task. During the time they work together, the buddies will discuss how to tackle the task and entertain any conversations that they deem relevant.
 
-During co-creation, it is advised to keep track of any interesting topics, conclusions, and realizations that might arise.\
-These can be shared in the forum using the DiaLOG category so that information and conclusions can be reached and build upon by other members.
+One of the benefits of the Buddy System is that it encourages co-creation. As the buddies work together, they will likely come up with new ideas and insights. It is advised to keep track of any interesting topics, conclusions, and realizations that might arise. These can be shared in the forum using the DiaLOG category so that information and conclusions can be reached and build upon by other members.
 
-**Mutual Attestation**
+The Buddy System also relies on mutual attestation. The system is not only a good way to get to know a person and learn from each other, but it can also serve as task validation. The Buddy System does not rely on a command and control for tasks, rather on a peer-to-peer attestation network, where each buddy validates on the relevance of the task, the quality of the task, and of each other’s contribution.
 
-The buddy system is not only a good way to get to know a person and get to learn from each other, but it can also serve as task validation.
+In case there will be any rewards to be assigned for performing the tasks (eg: TIME tokens), they will be divided equally between the buddies. Therefore, each buddy has the responsibility of co-creating as an equal contributor (eg: we built this), or to share the load equally (eg: we did the dishes).
 
-The buddy system does not rely on a command and control for tasks, rather on a peer-to-peer attestation network, where each buddy validates on the relevance of the task, the quality of the task and of each other’s contribution.
+To find a Buddy, signal your interests and goals, propose a task and and see who would like to "buddy up". Another way is to join a task which is in your interest. Once you've found a Buddy, make sure to work together and to communicate regularly and keep each other motivated.
 
-In case there will be any rewards to be assigned for performing the tasks (eg: TIME tokens), they will be divided equally between the buddies.\
-Therefore, each buddy has the responsibility of co-creating as an equal contributor (eg: we built this), or to share the load equally (eg: we did the dishes).
+The Buddy System is a powerful tool for achieving success through collaboration. By working together, buddies can provide valuable insights, ideas, and support, while also encouraging co-creation and mutual attestation. If you're looking to achieve a goal or complete a task, consider finding a Buddy to help you along the way
