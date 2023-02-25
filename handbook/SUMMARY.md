@@ -4,7 +4,8 @@
 
 ## Hack-Along Patterns <a href="#patterns" id="patterns"></a>
 
-* [Crew Formation Patterns](patterns/crew-formation-patterns.md)
+* [Crew Formation](patterns/crew-formation-patterns.md)
+* [Conscious Organizational Map](patterns/conscious-organizational-map.md)
 * [Co-Living Patters](patterns/coliving/README.md)
   * [Did this](patterns/coliving/did-this.md)
   * [Offers and Requests](patterns/coliving/offers-and-requests.md)
