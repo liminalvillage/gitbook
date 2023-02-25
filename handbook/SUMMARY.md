@@ -12,6 +12,7 @@
   * [Ruler of the Kitchen](patterns/coliving/ruler-of-the-kitchen.md)
   * [Appreciative Scoring](patterns/coliving/appreciative-scoring.md)
 * [Co-Creation Patterns](patterns/cocreation/README.md)
+  * [Psychological Safety](patterns/cocreation/psychological-safety.md)
   * [GameShifting](patterns/cocreation/gameshifting.md)
   * [Open Space](patterns/cocreation/open-space.md)
   * [Consent Decision Making](patterns/cocreation/consent-decision-making.md)
@@ -22,14 +23,16 @@
   * [Co-Create Proposals](patterns/cocreation/co-create-proposals.md)
   * [Resolve Objections](patterns/cocreation/resolve-objections.md)
 * [Communication Patterns](patterns/communication/README.md)
+  * [MonoLogs, DiaLogs, TriaLogs](patterns/communication/monologs-dialogs-trialogs.md)
+  * [Imago Dialogue](patterns/communication/imago-dialogue.md)
   * [Sharing Circle](patterns/communication/sharing-circle.md)
   * ["We" Proposals](patterns/communication/untitled.md)
   * [Group Sign Language](patterns/communication/non-violent-communication.md)
-  * [MonoLogs, DiaLogs, TriaLogs](patterns/communication/monologs-dialogs-trialogs.md)
   * [Color-Coding Talks](patterns/communication/color-coding.md)
 * [Healing Patterns](patterns/healing/README.md)
   * [The Seven A’s](patterns/healing/the-seven-as.md)
   * [The three 7s](patterns/healing/the-three-7s.md)
+  * [Internal Family Systems](patterns/healing/internal-family-systems.md)
 
 ## Tools
 
