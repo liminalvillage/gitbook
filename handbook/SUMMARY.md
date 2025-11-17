@@ -14,6 +14,7 @@
   * ["Account-a-Billy"](patterns/coliving/ruler-of-the-kitchen.md)
   * [Appreciative Scoring](patterns/coliving/appreciative-scoring.md)
 * [Co-Creation Patterns](patterns/cocreation/README.md)
+  * [Task and Role-Based Operating System](patterns/cocreation/task-and-role-based-operating-system.md)
   * [Psychological Safety](patterns/cocreation/psychological-safety.md)
   * [Three Pathways to Abundance](patterns/cocreation/three-pathways-to-abundance.md)
   * [Flow Tokens & Resource Distribution](patterns/cocreation/flow-tokens.md)
