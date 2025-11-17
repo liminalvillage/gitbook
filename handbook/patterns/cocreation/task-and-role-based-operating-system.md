@@ -11,16 +11,21 @@ At Liminal Village, being part of the community means collaborating, aligning, a
 
 ## Overview
 
+Think of Liminal Village as **a five-star hotel where the clients are the staff**. The community maintains high standards of care, cleanliness, and functionality - but everyone who enjoys these conditions also participates in creating them. There's no separate "service class" doing the work while others consume.
+
 Traditional organizations operate through **positional authority** - managers tell subordinates what to do, decisions flow top-down, and people are defined by their job titles.
 
-Liminal Village operates through **distributed authority** - roles carry specific accountabilities consented to by the community, tasks emerge from real needs and are self-assigned, and people fluidly move between multiple roles based on capacity and interest.
+Liminal Village operates through **distributed authority** - roles carry specific accountabilities consented to by the community, necessary tasks are shared among participants and coordinated through digital tools, and people fluidly move between multiple roles based on capacity and interest.
+
+**The work exists and must get done.** Kitchens need cleaning, meals need cooking, supplies need ordering, infrastructure needs maintaining, governance needs facilitating. These aren't optional - they're what keeps the "hotel" running at five-star quality. The difference is **how** this necessary work gets organized: through consent-based roles, transparent coordination, and shared responsibility rather than hierarchical command.
 
 This task and role-based operating system enables:
 - **Clarity** - Everyone knows who's accountable for what
 - **Autonomy** - People have authority to act within their roles
+- **Shared Responsibility** - Necessary work is distributed, not ignored or left to "someone else"
 - **Adaptability** - Roles and tasks evolve as needs change
 - **Consent** - No one is coerced into roles or tasks they object to
-- **Transparency** - All roles and tasks are visible to the community
+- **Transparency** - All roles and tasks are visible through digital tools and boards
 
 ## Core Concepts
 
@@ -230,6 +235,73 @@ self-select → They work as buddies → Meal happens → They attest on
    - Flow tokens if applicable
    - Appreciative Scoring from peers
 
+## Digital Coordination Tools
+
+**The work exists, but no one "assigns" it hierarchically. Instead, necessary tasks are coordinated through digital tools that make needs visible and enable self-organization:**
+
+### Making Work Visible
+
+**Asynchronous Forum** ([async.hackalong.io](https://async.hackalong.io))
+- Community discussions about needs and projects
+- DiaLOG category for sharing insights and conclusions
+- Project proposals and collaboration requests
+- Longer-form coordination across time zones
+
+**Collective Knowledge Graph** ([Roam Research](https://roamresearch.com/#/app/Liminal_Village/graph))
+- Linked documentation of roles, projects, and patterns
+- Shared knowledge base that evolves over time
+- Connections between ideas and initiatives
+
+**Communication Platforms**
+- **Interspace** ([interspace.chat](https://interspace.chat)) - Real-time coordination
+- **Discord** ([discord.gg/zucJ4ssXtd](https://discord.gg/zucJ4ssXtd)) - Community chat and voice
+- **Telegram** - Quick coordination and updates
+
+**Physical & Digital Boards**
+- "Did this" boards (contribution attestation)
+- "Offers and Requests" boards (resource matching)
+- Project boards (task tracking and status)
+- Role documentation (who's accountable for what)
+
+### How Coordination Works
+
+**1. Necessary Work Becomes Visible**
+- Role holders post tasks that need doing
+- Community members post requests for support
+- Recurring needs (meals, cleaning, maintenance) are documented
+- Digital tools make all of this transparent to everyone
+
+**2. People See and Respond**
+- Check boards and forums to see what's needed
+- Self-select tasks based on capacity, skills, interest
+- Offer help or resources where they can contribute
+- Coordinate timing and collaboration
+
+**3. Shared Responsibility, Not Central Assignment**
+- No manager saying "You do this, you do that"
+- Instead: "This needs doing" → visible on tools → someone responds
+- If critical tasks aren't getting picked up, that creates tension → governance addresses it (adjust roles, redistribute work, offer flow tokens, etc.)
+
+**4. The "Five-Star Hotel" Standard**
+- Everyone benefits from clean spaces, good food, functioning systems
+- Everyone contributes to maintaining those standards
+- Digital tools coordinate **who does what when** without requiring bosses
+- Shared pride in keeping the community functioning well
+
+**Example: Kitchen Coordination**
+- Kitchen Coordinator role identifies: "Fridge needs deep clean by Friday"
+- Posts to Offers and Requests board digitally and physically
+- Jordan sees it, has time Thursday, self-selects
+- Jordan finds task buddy (Alex), they complete it together
+- They attest on "Did this" board
+- Kitchen Coordinator confirms completion, thanks them
+- Both receive flow tokens at new moon distribution
+
+**The Shift:**
+- **Traditional:** Boss says "Jordan, clean the fridge by Friday"
+- **Liminal Village:** Need is visible → Jordan responds → Work gets done → Contribution recognized
+- **Result:** Same clean fridge, different power dynamic
+
 ## Operating Through the System
 
 ### What It Means to Be at Liminal Village
@@ -243,8 +315,9 @@ self-select → They work as buddies → Meal happens → They attest on
 - You can release roles when needed
 
 **2. Contributing Through Tasks**
-- You self-select tasks aligned with your energy and interests
-- You're not told what to do - you sense what's needed and respond
+- Necessary tasks exist and are coordinated through digital tools
+- You see what needs doing and self-select based on capacity and interest
+- The work must get done, but **who does what** emerges through coordination rather than command
 - You can work solo or find buddies
 - Your contributions are visible and recognized
 
@@ -329,6 +402,15 @@ self-select → They work as buddies → Meal happens → They attest on
 ### "Who's in charge?"
 
 No one is "in charge" hierarchically. Authority is distributed through roles. If you want to know who's responsible for something, look at role accountabilities. The Kitchen Coordinator has authority over kitchen matters. The Garden Coordinator has authority over garden matters. Each domain has clear accountability.
+
+### "What if I don't feel like doing any tasks?"
+
+Remember the "five-star hotel where clients are staff" dynamic. You're benefiting from clean spaces, maintained infrastructure, prepared meals, and coordinated community - all created by others' labor. If you consistently consume without contributing, you're expecting others to serve you, which contradicts the shared responsibility model.
+
+That said:
+- **Short-term:** Everyone has times of low capacity (illness, grief, burnout, life transitions). The community supports you during these periods.
+- **Contribution varies:** Some contribute physical labor, others offer land/resources, others provide care/facilitation, others financial support. All are valid.
+- **If it persists:** If you find you never want to contribute, there may be a mismatch between you and this community model. Liminal Village works because everyone participates in maintaining the conditions we all enjoy.
 
 ### "What if no one wants to do a task?"
 
